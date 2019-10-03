@@ -1,13 +1,20 @@
 # Telecom-churn-analysis
 
-Problem Definition:
+Problem Statement:
 
-The data set includes information about:
+Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and the factors that lead to the user changing their network provider.
 
-Customers who left within the last month – the column is called Churn
-Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-Demographic info about customers – gender, age range, and if they have partners and dependents
+# Data Dictionary
+Variable  | Descriptions
+--------- |-------------
+Churn     | Customers who left within the last month
+
+Phone,    | Services that each customer has signed up for
+Multiple lines, internet | Services that each customer has signed up for
+Online security, online backup | Services that each customer has signed up for
+Device protection, tech support, and streaming TV and movies | Services that each customer has signed up for 
+Contract, payment method, paperless billing, monthly charges, and total charges | Customer account information
+Gender, age range, and if they have partners and dependents | Demographic info about customers
 
 Dataset Question:
 
