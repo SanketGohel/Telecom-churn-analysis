@@ -8,12 +8,9 @@ Analysis is to predict if age group of the users is one of the driving force beh
 Variable  | Description
 --------- |-------------
 Churn     | Customers who left within the last month
-Phone    | Services that each customer has signed up for
-Multiple lines, internet | Services that each customer has signed up for
-Online security, online backup | Services that each customer has signed up for
-Device protection, tech support, and streaming TV and movies | Services that each customer has signed up for 
-Contract, payment method, paperless billing, monthly charges, and total charges | Customer account information
-Gender, age range, and if they have partners and dependents | Demographic info about customers
+Gender,Senior Citizen and if they have Partners and Dependents    | Demographic Information about Customers
+Phone, Multiple lines, Internet, Online security, Online Backup, Device protection, Tech Support and streaming TV and movies | Service Details that each customer has enrolled for
+Tenure, Contract, Payment Method, paperless billing, monthly charges, and total charges | Customer Account Information
 
 ### Dataset Question
 
