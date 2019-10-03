@@ -1,6 +1,6 @@
 # Telecom-churn-analysis
 
-Problem Statement:
+### Problem Statement
 
 Analysis is to predict if age group of the users is one of the driving force behind the network provider switch and the factors that lead to the user changing their network provider.
 
@@ -15,7 +15,7 @@ Device protection, tech support, and streaming TV and movies | Services that eac
 Contract, payment method, paperless billing, monthly charges, and total charges | Customer account information
 Gender, age range, and if they have partners and dependents | Demographic info about customers
 
-Dataset Question:
+### Dataset Question
 
 1. To predict the age group trend who switches network providers ?
 
