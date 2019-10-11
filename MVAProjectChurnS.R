@@ -1,6 +1,6 @@
 ##Multivariate Project
 ##TELECOM-CHURN-ANALYSIS
-##Author : Priyanshi Bajpai
+##Autor:Sanket Gohel
 
 ##-----------------------------------------------------------------------------------
 ##Importing Libraries
